@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ming</h1>
-<h3 align="center">Master's student in computational economics at UChicago</h3>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mingxuanhe/projects](https://sites.google.com/view/mingxuanhe/projects)
+- I'm an MA student studying computational economics at UChicago. I'm interested in quantitative research and data science in the Web3 space.
 
-- 📫 You can reach me at **mingxuanh@uchicago.edu**
+- All of my research and projects are available at [mingxuanhe.xyz/projects](https://www.mingxuanhe.xyz/projects)
+
+- You can reach me at **mingxuanh@uchicago.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingxuan-he&show_icons=true&locale=en&layout=compact" alt="mingxuan-he" /></p>
 
-<h3> Coding Time (since 2023/07/20) </h3>
+<h3> Coding Time (since 07/20/2023) </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mingxuanh&layout=compact" alt="mingxuan-he" /></p>
