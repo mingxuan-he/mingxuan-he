@@ -13,7 +13,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?)
 ![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)  
 **Libraries:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
