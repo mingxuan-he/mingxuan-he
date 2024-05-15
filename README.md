@@ -4,7 +4,7 @@
 
 🌌 All of my research and projects are available at [mingxuanhe.xyz/projects](https://www.mingxuanhe.xyz/projects)
 
-📫 You can reach me via: [Email](mailto:mingxuanh@uchicago.edu) | [Twitter](https://twitter.com/mingxdynasty) | [LinkedIn](https://linkedin.com/in/mingxuanhe)
+📫 You can reach me via: [Email](mailto:he.mingxuan527@gmail.com) | [Twitter](https://twitter.com/mingxdynasty) | [LinkedIn](https://linkedin.com/in/mingxuanhe)
 
 
 ### Languages and Tools
@@ -34,8 +34,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingxuan-he&show_icons=true&locale=en&layout=compact" alt="mingxuan-he" /></p>
 
-### Coding Time (since 07/20/2023)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mingxuanh&layout=compact" alt="mingxuan-he" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mingxuanh&layout=compact&custom_title=Coding%20Time%20(since%2007/20/2023)" alt="mingxuan-he" /></p>
