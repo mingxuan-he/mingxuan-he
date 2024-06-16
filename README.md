@@ -1,8 +1,10 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ming
 
-📖 I'm an MA candidate at UChicago studying computational economics. I'm interested in quantitative research and data science in the Web3 space.
+🔭 I'm currently working as a researcher & data scientist at Gauntlet.
 
-🌌 All of my research and projects are available at [mingxuanhe.xyz/projects](https://www.mingxuanhe.xyz/projects)
+📖 Previously I studied computational econ at UChicago and math/econ at Grinnell College.
+
+🌌 Check out my website [mingxuanhe.xyz](https://www.mingxuanhe.xyz)
 
 📫 You can reach me via: [Email](mailto:he.mingxuan527@gmail.com) | [Twitter](https://twitter.com/mingxdynasty) | [LinkedIn](https://linkedin.com/in/mingxuanhe)
 
@@ -25,7 +27,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![Solara](https://img.shields.io/badge/-Solara-000?)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=Apache-Spark)  
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=Apache-Spark)
+![Langchain](https://img.shields.io/badge/-langchain-000??&logo=langchain)  
 **Platforms & Tools:**  
 ![Dune Analytics](https://img.shields.io/badge/-Dune_Analytics-000?)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
